@@ -4,3 +4,6 @@ elephant
 snake
 warthog
 lemur
+llama
+anteater
+mammoth
