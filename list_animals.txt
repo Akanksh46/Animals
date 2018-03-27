@@ -2,4 +2,5 @@ lion
 tiger
 elephant
 snake
-
+warthog
+lemur
